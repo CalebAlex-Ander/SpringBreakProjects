@@ -1,4 +1,6 @@
-''' Hangman Program Try
+''' 
+Hangman Program Attempt
+With special thanks to github user erossignon for the quotes.
 '''
 import random
 import string
